@@ -1,6 +1,6 @@
 layout: page
 title: "Index"
-permalink: /about/index
+permalink: /index
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +17,7 @@ permalink: /about/index
 
     
 <div class="hero-image">
-  <img src="./images/IMG11.jpg" alt="WelcomeImg" class="Headerimage">
+  <img src="./StumbledUponArt/images/IMG11.jpg" alt="WelcomeImg" class="Headerimage">
   <div class="Headeroverlay">
     <div class="Headertext"> </div>
   </div>
@@ -26,7 +26,7 @@ permalink: /about/index
     
     
 <div class="hero-image">
-  <img src="./images/IMG7.jpg" alt="WelcomeImg" class="Headerimage">
+  <img src="./StumbledUponArt/images/IMG7.jpg" alt="WelcomeImg" class="Headerimage">
   <div class="Headeroverlay">
     <div class="Headertext">StumbledUpon</div>
   </div>
@@ -67,7 +67,7 @@ permalink: /about/index
 <br>
 
 <div class="polaroid">
-  <img src="./images/IMG10.jpg" alt="Jupiter" style="width:100%">
+  <img src="./StumbledUponArt/images/IMG10.jpg" alt="Jupiter" style="width:100%">
   <div class="container">
   <p>We Olive Hockey</p>
   </div>
