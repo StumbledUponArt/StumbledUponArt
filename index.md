@@ -67,7 +67,7 @@ permalink: /index
 <br>
 
 <div class="polaroid">
-  <img src="/StumbledUpon.art/images/IMG10.jpg" alt="Jupiter" style="width:100%">
+  <img src="./StumbledUpon.art/images/IMG10.jpg" alt="Jupiter" style="width:100%">
   <div class="container">
   <p>We Olive Hockey</p>
   </div>
@@ -82,7 +82,7 @@ permalink: /index
 <br>
 
 <div class="polaroid">
-  <img src="/StumbledUpon.art/images/IMG1.jpg" alt="Jupiter" style="width:100%">
+  <img src="./StumbledUpon.art/images/IMG1.jpg" alt="Jupiter" style="width:100%">
   <div class="container">
   <p>Mama Nature</p>
   </div>
@@ -99,7 +99,7 @@ permalink: /index
 
 
 <div class="polaroid">
-  <img src="/StumbledUpon.art/images/IMG2.jpg" alt="Jupiter" style="width:100%">
+  <img src="./StumbledUpon.art/images/IMG2.jpg" alt="Jupiter" style="width:100%">
   <div class="container">
   <p>African Sinatra</p>
   </div>
