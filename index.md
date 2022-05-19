@@ -9,7 +9,7 @@ permalink: /index
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>StumbledUpon</title>
-  <link rel="stylesheet" href="Blur2_style.css">
+  <link rel="stylesheet" href="./StumbledUpon.art/Blur2_style.css">
 </head>
 
 <body>
@@ -17,7 +17,7 @@ permalink: /index
 
     
 <div class="hero-image">
-  <img src="./StumbledUponArt/images/IMG11.jpg" alt="WelcomeImg" class="Headerimage">
+  <img src="./StumbledUpon.art/images/IMG11.jpg" alt="WelcomeImg" class="Headerimage">
   <div class="Headeroverlay">
     <div class="Headertext"> </div>
   </div>
@@ -26,7 +26,7 @@ permalink: /index
     
     
 <div class="hero-image">
-  <img src="./StumbledUponArt/images/IMG7.jpg" alt="WelcomeImg" class="Headerimage">
+  <img src="./StumbledUpon.art/images/IMG7.jpg" alt="WelcomeImg" class="Headerimage">
   <div class="Headeroverlay">
     <div class="Headertext">StumbledUpon</div>
   </div>
@@ -67,7 +67,7 @@ permalink: /index
 <br>
 
 <div class="polaroid">
-  <img src="./StumbledUponArt/images/IMG10.jpg" alt="Jupiter" style="width:100%">
+  <img src="./StumbledUpon.art/images/IMG10.jpg" alt="Jupiter" style="width:100%">
   <div class="container">
   <p>We Olive Hockey</p>
   </div>
